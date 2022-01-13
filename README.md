@@ -4,22 +4,6 @@
 <div align="center">
   <a href="https://github.com/femboy-party/tempmail-api">
     <img src="https://i.imgur.com/fJYAFil.png" alt="Logo" width="120" height="120">
-  </a>
-  
-  <h2 align="center">Tempmail API/Server</h3>
-
-  <p align="center">
-    Tempmail API aswell as a SMTP server.
-    <br />
-    <br />
-    <a href="http://tempmail.pink">Website</a>
-    ·
-    <a href="https://github.com/femboy-party/tempmail-api/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/femboy-party/tempmail-api/issues">Request Feature</a>
-  </p>
-</div>
-  
 ---------------------------------------
 
 ### Setup
