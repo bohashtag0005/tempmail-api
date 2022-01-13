@@ -4,7 +4,8 @@
 <div align="center">
   <a href="https://github.com/femboy-party/tempmail-api">
     <img src="https://i.imgur.com/fJYAFil.png" alt="Logo" width="120" height="120">
-
+  </a>
+  
     ---------------------------------------
 
 ### Setup
