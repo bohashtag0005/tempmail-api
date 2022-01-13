@@ -1,12 +1,3 @@
-<div id="top"></div>
-<p align="center">
-  <img src="https://img.shields.io/github/contributors/femboy-party/tempmail-api.svg?style=for-the-badge"/>
-  <img src="https://img.shields.io/github/forks/femboy-party/tempmail-api.svg?style=for-the-badge"/>
-  <img src="https://img.shields.io/github/stars/femboy-party/tempmail-api.svg?style=for-the-badge"/>
-  <img src="https://img.shields.io/github/issues/femboy-party/tempmail-api.svg?style=for-the-badge"/>
-  <img src="https://img.shields.io/github/license/femboy-party/tempmail-api.svg?style=for-the-badge"/>
-</p>
-  
 ---------------------------------------
   
 <br/>
@@ -90,4 +81,5 @@ SMTP/database.py
 ---------------------------------------
 
 ### Contact
-View my contact information on my [website](https://dropout.black/)
+bo@cia.contact
+bo#0005
